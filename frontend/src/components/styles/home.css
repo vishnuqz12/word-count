@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&family=Oxygen&display=swap');
+
+
+.container{
+    padding-top: 20px;
+
+    /* position: fixed; */
+}
+.header{
+  
+  display: inline-flex;
+
+}
+
+
+.head-name{
+    
+    color: blue;
+    float: left;
+    font-weight: bold;
+}
+span{
+    color: black;
+}
+.login{
+float: right;
+margin-left: 900px;
+font-family: 'Oxygen', sans-serif;
+font-weight: 600;
+font-size:x-large;
+color:grey;
+}
+
+.button{
+    margin-left: 50px;
+    padding: 5px 10px 2px 10px;
+    background-color: blue;
+    color: white;
+}
+
+.details{
+    margin-left: 10px;
+    margin-top: 100px;
+    float: left;
+    width:400px; height:200px;
+    white-space: initial;
+word-wrap: break-word;
+
+}
+.content{
+    font-size: 80px;
+    font-family: 'Dongle', sans-serif;
+}
+.content-para{
+    font-family: 'Oxygen', sans-serif;
+font-weight: 600;
+font-size:x-large;
+color:grey;
+}
+.content-globex{
+    color: blue;
+    font-size: 45px;
+
+    font-family: 'Dongle', sans-serif;
+}
+ 
+.image{
+    margin-top: 40px;
+    margin-left: 150px;
+    float: left;
+    width: 40%;
+    height: 40%;
+    background-color: black;
+}
+
+.footer-title{
+    margin-bottom: 20px;
+    padding-top: 500px;
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 500;
+    font-size:25px;
+    color:grey;
+}
+
+.form-input{
+    width: 600px;
+    height: 50px;
+    border: 2px solid blue;
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+
+.footer-btn{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(9, 30, 221);
+    color: white;
+    font-family: 'Oxygen', sans-serif;
+font-weight: 500;
+font-size:20px;
+margin-bottom: 10px;
+}
+
+
